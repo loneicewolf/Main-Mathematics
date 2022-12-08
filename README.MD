@@ -18,7 +18,7 @@ to share:
 
 
 <details>
-<summary> PoCs (Proof of Concepts) </summary>
+<summary> Test Runs </summary>
 
 ## 1
 
