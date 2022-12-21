@@ -1,6 +1,8 @@
 ## Main-Mathematics
 A so-called "main" repo for my math notes.
 
+- :warning: `Not done yet`
+
 
 ### Dropdown lists
 
